@@ -34,7 +34,7 @@ No additional installation steps required.
 In some cases it may be necessary to execute the following command line according to [about_Execution_Policies](https://learn.microsoft.com/ja-jp/powershell/module/microsoft.powershell.core/about/about_execution_policies#change-the-execution-policy).
 
 ```powershell
-Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+Set-ExecutionPolicy Unrestricted -Scope Process -Force
 ```
 
 ### Basic Usage
