@@ -1,6 +1,6 @@
-# echoclip
+# echoclip-ps
 
-A simple PowerShell tool that listens for TCP connections and copies received text to the Windows clipboard.
+A PowerShell tool that listens for TCP connections and copies received text to the Windows clipboard.
 
 ## Background
 
